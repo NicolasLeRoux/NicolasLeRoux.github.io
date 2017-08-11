@@ -1,0 +1,23 @@
+{
+  "name": "nicolasleroux.github.io",
+  "version": "0.1.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasLeRoux/NicolasLeRoux.github.io.git"
+  },
+  "author": "Nicolas Le Roux <mr.leroux.nicolas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasLeRoux/NicolasLeRoux.github.io/issues"
+  },
+  "homepage": "https://github.com/NicolasLeRoux/NicolasLeRoux.github.io#readme",
+  "dependencies": {
+    "materialize-css": "^0.100.1",
+    "mithril": "^1.1.3"
+  }
+}
